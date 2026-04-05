@@ -1,7 +1,5 @@
 # LayerMicaUI theme for Windows 11 Notification Center Styler
 
-**Author**: [Nimai-HK](https://github.com/Nimai-HK)
-
 ![Preview](screenshot.png)
 
 <table style="width:100%;">
@@ -63,11 +61,6 @@
   ControlCenterLayer=120
   ```
 </details>
-
-## Other LayerMicaUI Themes
-- [LayerMicaUI Taskbar Theme](https://github.com/ramensoftware/windows-11-taskbar-styling-guide/tree/main/Themes/LayerMicaUI)
-
-- [LayerMicaUI Start Menu Theme](https://github.com/ramensoftware/windows-11-start-menu-styling-guide/tree/main/Themes/LayerMicaUI)
 
 ## Credits
 - Thanks [Lockframe](https://github.com/Lockframe) and [OsamaHJT](https://github.com/OsamaHJT) for helping me find the targets.

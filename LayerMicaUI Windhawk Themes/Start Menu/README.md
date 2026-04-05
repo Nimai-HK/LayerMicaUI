@@ -1,7 +1,5 @@
 # LayerMicaUI theme for Windows 11 Start Menu Styler
 
-**Author**: [Nimai-HK](https://github.com/Nimai-HK)
-
 LayerMicaUI is a theme with adaptive layouts for the new Windows 11 25H2 Start menu.
 
 ![GIF](theme-preview.gif)
@@ -45,8 +43,7 @@ LayerMicaUI is a theme with adaptive layouts for the new Windows 11 25H2 Start m
   <summary>Taskbar Search Bar (Click to expand)</summary>
 
 - The taskbar search bar in clicked/active state is styled by this theme.
-- *If you use the [LayerMicaUI Taskbar Styler Theme](https://github.com/ramensoftware/windows-11-taskbar-styling-guide/tree/main/Themes/LayerMicaUI), this change is recommended.*
-
+- *If you use the [LayerMicaUI Taskbar Styler Theme]
     ```yaml
     - target: Border#TaskbarSearchBackground
       styles:
@@ -79,11 +76,6 @@ LayerMicaUI is a theme with adaptive layouts for the new Windows 11 25H2 Start m
 ## Some More Information
 - Start menu and Phone Link panel use separate surfaces, and on certain backgrounds the seam between them may be visible.
 - Start menu and Search window have fixed heights to prevent element displacement.
-
-## Other LayerMicaUI Themes
-- [LayerMicaUI Taskbar Theme](https://github.com/ramensoftware/windows-11-taskbar-styling-guide/tree/main/Themes/LayerMicaUI)
-
-- [LayerMicaUI Notification And Control Center Theme](https://github.com/ramensoftware/windows-11-notification-center-styling-guide/tree/main/Themes/LayerMicaUI)
 
 ## Theme selection
 
