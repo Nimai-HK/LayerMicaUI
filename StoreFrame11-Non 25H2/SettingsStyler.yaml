@@ -1,4 +1,6 @@
-#StoreFrame11 Theme for Windows 11 (Non 25H2 Variant)
+# StoreFrame11 Theme for Windows 11 (Non 25H2 Variant)
+# To use this theme, Go to the Windows-11-Settings-Styler mod, navigate to the "Mod Settings" tab.
+# Then, click on the Button that says "Textual Mode", and replace all text with the contents from this file.
 styleConstants:
   - OutRadius=8
   - InRadius=4
